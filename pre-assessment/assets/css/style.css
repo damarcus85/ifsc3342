@@ -22,9 +22,10 @@ body {
 	border: 1px solid #CCC;
 }
 #header {
-
-  
 }
+
+
+
 #header h1 a {
 	display: block;
 	width: 800px;
@@ -72,6 +73,13 @@ body {
 	margin-bottom: 15px;
 }
 
+.alert{
+	background-color: #A69541;
+	color: #D93829;
+	
+	
+}
+
 h2{
 	color: #010326;
 	border: 5px solid #0D0D0D;
@@ -101,9 +109,11 @@ a:hover {
 	background-color: #D93829;
   }
 
-img-right{
-	
+.img-right{
+	float: right;
+	border-style: groove;
 }
+
 #footer {
 	background-color: #000;
 	color: #FFF;
